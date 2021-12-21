@@ -1,0 +1,4 @@
+REACT_APP_REGION=us-east-1
+REACT_APP_USER_POOL_ID=us-east-1_AyVyro95I
+REACT_APP_USER_POOL_WEB_CLIENT_ID=69fq1avqebgv8crkk7vpkubce0
+REACT_APP_API_URL='https://kc5jfm8eml.execute-api.us-east-1.amazonaws.com/dev/'
