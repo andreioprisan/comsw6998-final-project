@@ -13,6 +13,7 @@ Anonymous users can search for all items across all restaurants and get the orig
 ## Demo
 
 See menu-qr-demo.mov for a full demo walkthrough.
+Demo URL: http://menu-qr-code.s3-website-us-east-1.amazonaws.com/
 
 ## Code Structure
 ```
